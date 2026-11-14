@@ -231,7 +231,7 @@ http://127.0.0.1:8000
 
 Source code proyek dapat diakses melalui repository berikut:
 
-**GitHub:** https://github.com/USERNAME/fintrack-umkm
+**GitHub:** https://github.com/zahrannaufalamar-cloud/UTS-Pemrograman-Internet
 
 ---
 
