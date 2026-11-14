@@ -5,9 +5,9 @@
 
 | Keterangan | Identitas |
 |---|---|
-| Nama Lengkap | [Isi Nama Lengkap] |
-| NIM | [Isi NIM] |
-| Kelas | [Isi Kelas] |
+| Nama Lengkap | ZAHRAN NAUFAL AMAR |
+| NIM | C2483207012 |
+| Kelas | PTI5 |
 | Mata Kuliah | Pemrograman Internet |
 | Tahun Akademik | 2026/2027 |
 
@@ -56,7 +56,6 @@ Aplikasi FinTrack UMKM memiliki beberapa fitur utama:
 - JavaScript
 - Chart.js
 - Visual Studio Code
-- Laragon
 - Git dan GitHub
 
 ## 5. Implementasi MVC Laravel
@@ -150,7 +149,10 @@ Screenshot berikut memperlihatkan tampilan aplikasi FinTrack UMKM.
 
 ![Analisis Keuangan FinTrack UMKM](screenshots/analisis.png)
 
-> Pastikan nama file screenshot di folder `screenshots/` sesuai dengan nama yang digunakan pada README ini.
+### D. Laporan Keuangan
+
+![Analisis Keuangan FinTrack UMKM](screenshots/laporanlabarugi.png)
+
 
 ## 8. Cara Menjalankan Aplikasi
 
